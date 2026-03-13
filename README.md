@@ -23,7 +23,7 @@
 | 01 | **Control Flow** | if/else, switch, for, while, do-while | ✅ |
 | 02 | **Functions** | Functions, Recursion, Scope, Overloading | ✅ |
 | 03 | **Arrays & Strings** | Arrays, Multi-dim, C-strings, `std::string` | ✅ |
-| 04 | **Pointers & Memory** | Pointers, References, Dynamic Memory, `new`/`delete` | 🔄 |
+| 04 | **Pointers & Memory** | Pointers, References, Dynamic Memory, `new`/`delete` | ✅ |
 | 05 | **OOP** | Classes, Inheritance, Polymorphism, Encapsulation | 🔄 |
 | 06 | **STL** | Vectors, Maps, Sets, Stacks, Queues, Algorithms | 🔜 |
 | 07 | **File I/O** | File Streams, Error Handling | 🔜 |
