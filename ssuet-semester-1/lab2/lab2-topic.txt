@@ -1,0 +1,15 @@
+//type casting
+
+**implicit-casting , automatic type casting , widening type**
+int a = 10
+double b ;
+
+b = a
+//choti value bari bari space me jaye tou 
+
+
+
+//Emplicit , narrowing type casting 
+//double occupy more size than int if you want to put double value in int , tou jitna askta hai 
+//int me utna save karga ga baki waste hojae ga 
+//tou hum data ko lost hone se bachane ke liya 
