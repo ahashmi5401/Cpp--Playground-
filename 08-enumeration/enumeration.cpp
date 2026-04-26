@@ -9,7 +9,7 @@ using namespace std;
     
 main()
 {
-    enum Level myVar = MEDIUM;
+    Level myVar = MEDIUM;
     cout << "value of myVar is =>" << myVar << "\n";
 
     switch (myVar){
